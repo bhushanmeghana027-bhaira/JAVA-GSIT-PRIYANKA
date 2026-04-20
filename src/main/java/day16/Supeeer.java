@@ -1,6 +1,6 @@
 package day16;
 
-
+//Java adds super() ONLY if you don’t write this() or super()
 
 class StudentUser
 {
